@@ -1,0 +1,12 @@
+# Ignore the dist folder
+dist/
+
+# Ignore archives
+*.rar
+
+# Ignore Python cache and virtual environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
